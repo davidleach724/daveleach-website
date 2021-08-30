@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/daveleach.dev/static/css/main.a617e044.chunk.css",
+    "main.js": "/daveleach.dev/static/js/main.e755509b.chunk.js",
+    "main.js.map": "/daveleach.dev/static/js/main.e755509b.chunk.js.map",
+    "runtime-main.js": "/daveleach.dev/static/js/runtime-main.e9e73351.js",
+    "runtime-main.js.map": "/daveleach.dev/static/js/runtime-main.e9e73351.js.map",
+    "static/js/2.6d611f4b.chunk.js": "/daveleach.dev/static/js/2.6d611f4b.chunk.js",
+    "static/js/2.6d611f4b.chunk.js.map": "/daveleach.dev/static/js/2.6d611f4b.chunk.js.map",
+    "static/js/3.5d63cbe5.chunk.js": "/daveleach.dev/static/js/3.5d63cbe5.chunk.js",
+    "static/js/3.5d63cbe5.chunk.js.map": "/daveleach.dev/static/js/3.5d63cbe5.chunk.js.map",
+    "index.html": "/daveleach.dev/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/daveleach.dev/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.6d611f4b.chunk.js.LICENSE.txt": "/daveleach.dev/static/js/2.6d611f4b.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/daveleach.dev/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e9e73351.js",
+    "static/js/2.6d611f4b.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.e755509b.chunk.js"
+  ]
+}
