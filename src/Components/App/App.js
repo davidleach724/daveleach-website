@@ -1,10 +1,13 @@
-import React, { Component } from 'react'
+import React from 'react'
+import Home from '../Home/Home'
 import './App.css'
 
 const App = () => {
 
   return (
-    <h1>Dave Leach</h1>
+    <main>
+      <Home />
+    </main>
   )
 }
 
