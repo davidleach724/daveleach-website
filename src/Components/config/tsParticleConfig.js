@@ -54,7 +54,7 @@ const tsParticleConfig = {
     },
     move: {
       enable: true,
-      speed: 1,
+      speed: .4,
       direction: "none",
       random: true,
       straight: false,
@@ -87,7 +87,7 @@ const tsParticleConfig = {
         }
       },
       bubble: {
-        distance: 150,
+        distance: 75,
         size: 5,
         duration: 2,
         opacity: 0,
