@@ -7,6 +7,7 @@
 .image1 {
   height:100vh;
   position: absolute;
+  z-index: 2;
 }
 
 .image2 {
@@ -19,3 +20,12 @@
   width: 100vw;
   position: absolute;
 }
+
+.name {
+  color: white;
+  z-index: 3;
+  position: absolute;
+  padding-top: 15vh;
+  padding-left: 10vw;
+}
+

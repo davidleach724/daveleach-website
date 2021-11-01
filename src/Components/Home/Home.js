@@ -8,6 +8,7 @@ const Home = () => {
 
   return (
     <div className="home-container">
+      <h1 className="name bounce-in-fwd">Dave Leach</h1>
       <img src={tree} className='image1' alt='tree'/>
       <img src={city} className='image2' alt='city'/>
       <img src={moon} className='image3' alt='moon'/>
