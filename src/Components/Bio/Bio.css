@@ -1,5 +1,15 @@
 .bio-container {
   width: 100vw;
-  height: 30vh;
-  background: linear-gradient(0deg, rgb(0, 0, 0) 60%, rgba(28,55,48, 1) 100%);
+  height: 60vh;
+  background-color: black;
+}
+
+.pagebreak {
+  height: 20vh;
+  width: 100vw;
+  background-color: black;
+}
+
+.section-title {
+  color: white;
 }

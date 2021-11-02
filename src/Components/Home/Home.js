@@ -15,7 +15,7 @@ const Home = () => {
 
   useEffect(() => {
     window.onscroll =()=>{
-      const newScrollHeight = Math.ceil(window.scrollY / 50) *50;
+      const newScrollHeight = Math.ceil(window.scrollY / 25) *25;
       if (currentScrollHeight !== newScrollHeight){
           setCurrentScrollHeight(newScrollHeight)
       }
@@ -30,8 +30,8 @@ const Home = () => {
         id="tsparticles"
         options={tsParticleConfig}
       />
-      <img className="name bounce-in-top" src={ daveleach }/>
-      <img className="occupation text-focus-in" src={ softwareengineer }/>
+      <img className="name bounce-in-top" src={ daveleach } alt="dave leach name"/>
+      <img className="occupation text-focus-in" src={ softwareengineer } alt="occupation software engineer"/>
       <img src={ tree } className='image1' alt='tree'/>
       <img src={ city } className='image2' alt='city'/>
       <img src={ moon } className='image3' alt='moon'/>

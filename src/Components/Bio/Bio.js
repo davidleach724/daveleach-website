@@ -4,7 +4,8 @@ const Bio = () => {
 
   return (
     <div className="bio-container">
-      <h1>Bio Goes Here</h1>
+      <div className='pagebreak'></div>
+      <h1 className='section-title'>Bio Goes Here</h1>
     </div>
   )
 }
