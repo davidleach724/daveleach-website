@@ -7,22 +7,24 @@
 .image1 {
   height:100vh;
   position: absolute;
-  z-index: 2;
+  z-index: 3;
 }
 
 .image2 {
   height: 100vh;
   float: right;
+  z-index: 2;
   position: relative;
 }
 
 .image3 {
   width: 100vw;
+  z-index: 1;
   position: absolute;
 }
 
 .name {
-  color: white;
+  width: 30vw;
   z-index: 3;
   position: absolute;
   padding-top: 15vh;
@@ -30,16 +32,16 @@
 }
 
 .occupation {
-  color: white;
+  width: 20vw;
   position: absolute;
   z-index: 3;
-  padding-top: 20vh;
-  padding-left: 9vw;
+  padding-top: 23vh;
+  padding-left: 15vw;
 }
 
 .bounce-in-top {
-	-webkit-animation: bounce-in-top 5s both;
-	        animation: bounce-in-top 5s both;
+	-webkit-animation: bounce-in-top 8s both;
+	        animation: bounce-in-top 8s both;
 }
 
 .text-focus-in {
