@@ -8,11 +8,24 @@ import softwareengineer from '../../Images/softwareengineer.png'
 
 import Particles from 'react-tsparticles';
 import tsParticleConfig from '../config/tsParticleConfig';
+import { useEffect, useState } from 'react'
 
 const Home = () => {
+  const [currentScrollHeight, setCurrentScrollHeight] = useState(0)
+
+  useEffect(() => {
+    window.onscroll =()=>{
+      const newScrollHeight = Math.ceil(window.scrollY / 50) *50;
+      if (currentScrollHeight !== newScrollHeight){
+          setCurrentScrollHeight(newScrollHeight)
+      }
+    }
+  })
+
+  const opacity = Math.min(100 / currentScrollHeight  , 1)
 
   return (
-    <div className="home-container">
+    <div style={{opacity}} className="home-container">
        <Particles
         id="tsparticles"
         options={tsParticleConfig}

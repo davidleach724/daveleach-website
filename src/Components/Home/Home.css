@@ -2,6 +2,7 @@
   height: 100vh;
   width: 100vw;
   background: linear-gradient(0deg, rgba(13,71,171,1) 0%, rgba(3,1,43,1) 60%, rgba(0,0,0,1) 100%);
+  opacity: 1;
 }
 
 canvas {
@@ -44,8 +45,8 @@ canvas {
 }
 
 .bounce-in-top {
-	-webkit-animation: bounce-in-top 8s both;
-	        animation: bounce-in-top 8s both;
+	-webkit-animation: bounce-in-top 7s both;
+	        animation: bounce-in-top 7s both;
 }
 
 .text-focus-in {
