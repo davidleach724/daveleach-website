@@ -2,14 +2,27 @@
   width: 100vw;
   height: 60vh;
   background-color: black;
+  display: flex;
+  flex-direction: column;
+  align-content: center;
 }
 
 .pagebreak {
-  height: 20vh;
+  height: 5vh;
   width: 100vw;
   background-color: black;
 }
 
 .section-title {
   color: white;
+}
+
+.article-container {
+  display: flex;
+  width: 90vw;
+}
+
+p {
+  color: white;
+  margin: 10px;
 }
