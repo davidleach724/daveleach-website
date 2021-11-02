@@ -1,0 +1,6 @@
+.bio-container {
+  width: 100vw;
+  height: 30vh;
+  background-color: blue;
+  z-index: 10;
+}

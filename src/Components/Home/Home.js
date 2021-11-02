@@ -6,10 +6,17 @@ import moon from '../../Images/Moon2.png'
 import daveleach from '../../Images/daveleach.png'
 import softwareengineer from '../../Images/softwareengineer.png'
 
+import Particles from 'react-tsparticles';
+import tsParticleConfig from '../config/tsParticleConfig';
+
 const Home = () => {
 
   return (
     <div className="home-container">
+       <Particles
+        id="tsparticles"
+        options={tsParticleConfig}
+      />
       <img className="name bounce-in-top" src={ daveleach }/>
       <img className="occupation text-focus-in" src={ softwareengineer }/>
       <img src={ tree } className='image1' alt='tree'/>
