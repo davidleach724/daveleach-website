@@ -4,7 +4,7 @@
   background-color: black;
   display: flex;
   flex-direction: column;
-  align-content: center;
+  align-items: center;
 }
 
 .pagebreak {
@@ -20,6 +20,10 @@
 .article-container {
   display: flex;
   width: 90vw;
+}
+
+.indiv-article {
+  width: 45vw;
 }
 
 p {
