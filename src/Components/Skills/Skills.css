@@ -1,10 +1,36 @@
-.skills-container {
+.skills-section {
   width: 100vw;
-  height: 30vh;  
   background: linear-gradient(0deg, rgb(167, 187, 185) 0%, rgba(90, 104, 103) 100%);
 }
-
 .skills-title {
   color: black;
   text-align: center;
+}
+
+.skills-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.skills-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+  border: 1px solid black;
+  margin: 10px;
+  width: 240px;
+  height: 160px;
+}
+
+.bottom-card {
+  display: flex;
+  align-items: center;
+}
+
+.skill-icon {
+  width: 75px;
+  padding: 10px;
 }

@@ -9,7 +9,7 @@ const Bio = () => {
   return (
     <div className="bio-container">
       <div className='pagebreak'></div>
-      <h1 className='section-title'>About Me</h1>
+      <h2 className='section-title'>About Me</h2>
       <article className="article-container">
         <div className="indiv-article">
            <p>I spent the past 10 years playing music, touring around the world, and performing on notable programs such as "The Late Show with David Letterman." When the world shut down in March of 2020, I was able to catch my breath and had the opportunity to plan for what came next. In May of 2021 I enrolled in Turing School of Software & Design and discovered just how similar the programming and musical brains are.</p>
