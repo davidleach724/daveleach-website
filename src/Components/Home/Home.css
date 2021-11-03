@@ -2,6 +2,11 @@
   height: 100vh;
   width: 100vw;
   background: linear-gradient(0deg, rgba(13,71,171,1) 0%, rgba(3,1,43,1) 60%, rgba(0,0,0,1) 100%);
+  opacity: 1;
+}
+
+canvas {
+ position: absolute !important;
 }
 
 .image1 {
@@ -20,7 +25,7 @@
 .image3 {
   width: 100vw;
   z-index: 1;
-  position: fixed;
+  position: absolute;
 }
 
 .name {
@@ -40,13 +45,13 @@
 }
 
 .bounce-in-top {
-	-webkit-animation: bounce-in-top 8s both;
-	        animation: bounce-in-top 8s both;
+	-webkit-animation: bounce-in-top 2s 2s both;
+	        animation: bounce-in-top 2s 2s both;
 }
 
 .text-focus-in {
-	-webkit-animation: text-focus-in 3s cubic-bezier(0.550, 0.085, 0.680, 0.530) 4s both;
-	        animation: text-focus-in 3s cubic-bezier(0.550, 0.085, 0.680, 0.530) 4s both;
+	-webkit-animation: text-focus-in 3s cubic-bezier(0.550, 0.085, 0.680, 0.530) 3s both;
+	        animation: text-focus-in 3s cubic-bezier(0.550, 0.085, 0.680, 0.530) 3s both;
 }
 
 /* ----------------------------------------------
