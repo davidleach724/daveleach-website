@@ -1,5 +1,10 @@
 .skills-container {
   width: 100vw;
-  height: 30vh;
-  background-color: rgba(164,186,183,1);
+  height: 30vh;  
+  background: linear-gradient(0deg, rgb(167, 187, 185) 0%, rgba(90, 104, 103) 100%);
+}
+
+.skills-title {
+  color: black;
+  text-align: center;
 }
