@@ -30,3 +30,15 @@ p {
   color: white;
   margin: 10px;
 }
+
+.pictures {
+  display: flex;
+  justify-content: space-around;
+  width: 95vw;
+  flex-wrap: auto;
+  margin: 5vh;
+}
+
+.polaroid {
+  width: 25vw
+}

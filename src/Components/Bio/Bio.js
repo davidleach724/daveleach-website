@@ -1,5 +1,9 @@
 import './Bio.css'
 
+import birdie from '../../Images/polobirdie.png'
+import dlshow from '../../Images/poloshow.png'
+import greece from '../../Images/pologreece.png'
+
 const Bio = () => {
 
   return (
@@ -17,6 +21,11 @@ const Bio = () => {
           <p>Feel free to reach out to me on linkedIn, email me directly, or take a look at my resume.</p>
         </div>
       </article>
+      <div className='pictures'>
+        <img src={birdie} className="polaroid" alt="dave and birdie hiking"/>
+        <img src={dlshow} className="polaroid" alt="the late show"/>
+        <img src={greece} className="polaroid" alt="athens greece"/>
+      </div>
     </div>
   )
 }
