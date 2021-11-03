@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.6a35141e.chunk.css",
-    "main.js": "/static/js/main.672e4f6c.chunk.js",
-    "main.js.map": "/static/js/main.672e4f6c.chunk.js.map",
+    "main.css": "/static/css/main.8eddad85.chunk.css",
+    "main.js": "/static/js/main.5a48ad50.chunk.js",
+    "main.js.map": "/static/js/main.5a48ad50.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.1f0209ff.js",
     "runtime-main.js.map": "/static/js/runtime-main.1f0209ff.js.map",
     "static/js/2.ae613e59.chunk.js": "/static/js/2.ae613e59.chunk.js",
     "static/js/2.ae613e59.chunk.js.map": "/static/js/2.ae613e59.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.6a35141e.chunk.css.map": "/static/css/main.6a35141e.chunk.css.map",
+    "static/css/main.8eddad85.chunk.css.map": "/static/css/main.8eddad85.chunk.css.map",
     "static/js/2.ae613e59.chunk.js.LICENSE.txt": "/static/js/2.ae613e59.chunk.js.LICENSE.txt",
     "static/media/City&Grass.c2375360.png": "/static/media/City&Grass.c2375360.png",
     "static/media/Moon2.cc1875e7.png": "/static/media/Moon2.cc1875e7.png",
@@ -17,7 +17,7 @@
   "entrypoints": [
     "static/js/runtime-main.1f0209ff.js",
     "static/js/2.ae613e59.chunk.js",
-    "static/css/main.6a35141e.chunk.css",
-    "static/js/main.672e4f6c.chunk.js"
+    "static/css/main.8eddad85.chunk.css",
+    "static/js/main.5a48ad50.chunk.js"
   ]
 }
