@@ -11,14 +11,14 @@ const Skills = () => {
           <h3>Development</h3>
           <div className="bottom-card">
             <img src={shareicon} className="skill-icon"/>
-            <h4>React, JavaScript, GraphQL, Context API, ApolloClient, REST API, WebPack</h4>
+            <h4>React, JavaScript, GraphQL, Context API, ApolloClient, REST API, WebPack, GitHub Pages</h4>
           </div>
         </div>
         <div className="skills-card">
           <h3>Workflow</h3>
           <div className="bottom-card">
             <img src={shareicon} className="skill-icon"/>
-            <h4>TDD, Git, NPM, GitHub, OOP, Trello, Heroku, Agile</h4>
+            <h4>TDD, Git, NPM, GitHub Projects, OOP, Trello, Heroku, Agile</h4>
           </div>
         </div>
         <div className="skills-card">
@@ -35,7 +35,6 @@ const Skills = () => {
             <h4>HTML5, CSS3, SASS, ARIA, Responsive Design, Adobe Photoshop</h4>
           </div>
         </div>
-
       </div>
     </div>
   );
