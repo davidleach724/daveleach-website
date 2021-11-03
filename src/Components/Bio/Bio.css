@@ -1,10 +1,10 @@
 .bio-container {
   width: 100vw;
-  height: 60vh;
   background-color: black;
   display: flex;
   flex-direction: column;
   align-items: center;
+  background: linear-gradient(0deg, rgb(90, 104, 103) 0%, rgba(0,0,0,1) 50%);
 }
 
 .pagebreak {
@@ -15,6 +15,8 @@
 
 .section-title {
   color: white;
+  padding: 5vh;
+  font-size: 4vw;
 }
 
 .article-container {
