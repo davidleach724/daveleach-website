@@ -35,12 +35,13 @@ p {
 
 .pictures {
   display: flex;
-  justify-content: space-around;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
   width: 95vw;
-  flex-wrap: auto;
   margin: 5vh;
 }
 
 .polaroid {
-  width: 25vw
+  width: 300px;
+  margin: 10px;
 }
