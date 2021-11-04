@@ -1,27 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.acde3cac.chunk.css",
-    "main.js": "/static/js/main.4b86bd9b.chunk.js",
-    "main.js.map": "/static/js/main.4b86bd9b.chunk.js.map",
+    "main.css": "/static/css/main.49ac3758.chunk.css",
+    "main.js": "/static/js/main.517abc5d.chunk.js",
+    "main.js.map": "/static/js/main.517abc5d.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.1f0209ff.js",
     "runtime-main.js.map": "/static/js/runtime-main.1f0209ff.js.map",
-    "static/js/2.87001d58.chunk.js": "/static/js/2.87001d58.chunk.js",
-    "static/js/2.87001d58.chunk.js.map": "/static/js/2.87001d58.chunk.js.map",
+    "static/js/2.25121d47.chunk.js": "/static/js/2.25121d47.chunk.js",
+    "static/js/2.25121d47.chunk.js.map": "/static/js/2.25121d47.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.acde3cac.chunk.css.map": "/static/css/main.acde3cac.chunk.css.map",
-    "static/js/2.87001d58.chunk.js.LICENSE.txt": "/static/js/2.87001d58.chunk.js.LICENSE.txt",
+    "static/css/main.49ac3758.chunk.css.map": "/static/css/main.49ac3758.chunk.css.map",
+    "static/js/2.25121d47.chunk.js.LICENSE.txt": "/static/js/2.25121d47.chunk.js.LICENSE.txt",
     "static/media/City&Grass.c2375360.png": "/static/media/City&Grass.c2375360.png",
     "static/media/Moon2.cc1875e7.png": "/static/media/Moon2.cc1875e7.png",
-    "static/media/Tree&Grass.ff3c1e67.png": "/static/media/Tree&Grass.ff3c1e67.png",
+    "static/media/Tree&Grass.e98765ca.png": "/static/media/Tree&Grass.e98765ca.png",
+    "static/media/design.f29be246.png": "/static/media/design.f29be246.png",
+    "static/media/development.feaba587.png": "/static/media/development.feaba587.png",
     "static/media/polobirdie.addd5cfe.png": "/static/media/polobirdie.addd5cfe.png",
     "static/media/pologreece.33b9a72b.png": "/static/media/pologreece.33b9a72b.png",
-    "static/media/poloshow.a69dec65.png": "/static/media/poloshow.a69dec65.png",
-    "static/media/share-icon.0dcd527c.png": "/static/media/share-icon.0dcd527c.png"
+    "static/media/poloshow.a69dec65.png": "/static/media/poloshow.a69dec65.png"
   },
   "entrypoints": [
     "static/js/runtime-main.1f0209ff.js",
-    "static/js/2.87001d58.chunk.js",
-    "static/css/main.acde3cac.chunk.css",
-    "static/js/main.4b86bd9b.chunk.js"
+    "static/js/2.25121d47.chunk.js",
+    "static/css/main.49ac3758.chunk.css",
+    "static/js/main.517abc5d.chunk.js"
   ]
 }
