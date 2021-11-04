@@ -3,6 +3,7 @@ import Home from '../Home/Home'
 import Skills from '../Skills/Skills';
 import Bio from '../Bio/Bio';
 import './App.css'
+import Projects from '../Projects/Projects';
 
 const App = () => {
 
@@ -11,6 +12,7 @@ const App = () => {
       <Home />
       <Bio />
       <Skills />
+      <Projects />
     </main>
   )
 }
