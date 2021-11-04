@@ -14,5 +14,7 @@
 }
 
 .project-card {
-  background-color: blueviolet;
+  background-color: rgb(35, 4, 63);
+  /* background-image: url('../../Images/polobirdie.png');
+  background-size: cover; */
 }
