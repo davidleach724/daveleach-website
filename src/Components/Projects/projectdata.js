@@ -22,7 +22,7 @@ export const projectdata = [
     image: 'bandglamp.png',
     summary: 'A showcase application that allows artists/bands book campsites corresponding to their tour',
     tech: 'React, Router, React Hooks, Cypress, REST API, JavaScript, CSS, HTML, Photoshop',
-    accomplishments: 'Creating an application for a niche audience, building a dynamic API call, Cypress stubbing',
+    accomplishments: 'Building a dynamic API call, Cypress stubbing',
     deployedLink: 'https://davidleach724.github.io/band-glamp/',
     repoLink: 'https://github.com/davidleach724/band-glamp'
   },
