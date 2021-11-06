@@ -1,17 +1,19 @@
+import ProjectCard from '../ProjectCard/ProjectCard'
+import { projectdata } from './projectdata'
 import './Projects.css'
 
 const Projects = () => {
+  const projectCards = projectdata.map(project => {
+    return (
+      <ProjectCard project={ project } />
+    )
+  })
 
   return (
     <div className="projects-container">
       <h2 className="skills-title">Projects</h2>
       <div className="project-card-container">
-        <div className="project- project-card"></div>
-        <div className="project- project-card"></div>
-        <div className="project- project-card"></div>
-        <div className="project- project-card"></div>
-        <div className="project- project-card"></div>
-        <div className="project- project-card"></div>
+        {projectCards}
       </div>
     </div>
   )
