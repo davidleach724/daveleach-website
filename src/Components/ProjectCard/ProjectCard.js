@@ -16,6 +16,7 @@ const ProjectCard = ({ project }) => {
           <p className='project-text'>Tech Used: {project.tech}</p>
           <p className='project-text'>Accomplisments: {project.accomplishments}</p>
           <a href={project.repoLink}>Repo Link</a>
+          {project.deployedLink != '' && <a href={project.deployedLink}>Deployed App</a>}
         </div>
     </div>
   )

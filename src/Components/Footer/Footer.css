@@ -1,5 +1,27 @@
 .footer-container {
-  height: 5vh;
+  height: 70px;
   width: 100vw;
   background-color: rgba(167, 187, 185);
+  display: flex;
+  justify-content: center;
+}
+
+.footer-links {
+  display: flex;
+}
+
+.footer-icon {
+  width: 60px;
+  height: 50px;
+}
+
+.footer-icon:hover {
+  transform: scale(1.1);
+}
+
+.footer-copy {
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+  width: 33vw;
 }
