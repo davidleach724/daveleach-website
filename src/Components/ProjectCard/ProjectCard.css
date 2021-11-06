@@ -1,0 +1,33 @@
+.project-card {
+  position: relative;
+}
+
+.project-image {
+  width: 300px;
+  height: 300px;
+  z-index: 2;
+}
+
+.project-layer {
+  background: #eeeeee;
+  -webkit-transition: opacity 1s;
+  transition: opacity 1s;
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  text-align: center;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  z-index: 4;
+}
+
+.project-layer:hover {
+  opacity: 0.96;
+}
+
+.project-text {
+  color: black;
+}

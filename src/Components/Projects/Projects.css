@@ -7,14 +7,9 @@
 
 .project-card-container {
   display: grid;
-  grid-template-columns: 300px 300px;
-  grid-template-rows: 300px 300px 300px;
+  grid-template-rows: 300px 300px;
+  grid-template-columns: 300px 300px 300px;
   grid-gap: 30px;
   padding: 3vh
 }
 
-.project-card {
-  background-color: rgb(35, 4, 63);
-  /* background-image: url('../../Images/polobirdie.png');
-  background-size: cover; */
-}
