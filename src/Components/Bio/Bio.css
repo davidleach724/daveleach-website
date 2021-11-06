@@ -41,6 +41,10 @@ p {
   margin: 5vh;
 }
 
+.bio-links {
+  color: aliceblue;
+}
+
 .polaroid {
   width: 300px;
   margin: 10px;
