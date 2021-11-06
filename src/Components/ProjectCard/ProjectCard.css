@@ -20,9 +20,14 @@
   height: 100%;
   display: flex;
   flex-direction: column;
+  justify-content: space-evenly;
   z-index: 4;
 }
 
 .project-layer:hover {
-  opacity: 0.95;
+  opacity: 0.96;
+}
+
+.project-text {
+  color: black;
 }

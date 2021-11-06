@@ -29,7 +29,7 @@ export const projectdata = [
   {
     name: 'Portfolio',
     image: 'portfolio.png',
-    summary: 'The portfolio you are looking at right now',
+    summary: 'Independent project to display personal portfolio',
     tech: 'React, JavaScript, HTML, CSS, tsParticle.js, Photoshop',
     accomplishments: 'Creating an application with focus on CSS and cross browser compatibility',
     deployedLink: 'http://www.daveleach.dev',
@@ -47,9 +47,9 @@ export const projectdata = [
   {
     name: 'Travel Tracker',
     image: 'travelon.png',
-    summary: 'An application to manage and track, book, and display different trips for a user database',
+    summary: 'An application to manage, book, and display different trips for a user database',
     tech: 'JavaScript, HTML5, CSS/SCSS, NODE, WebPack, Fetch API, Moment.js',
-    accomplishments: 'Used OOP to drive the design of the app/code, worked with an API to GET and POST data, built a robust test suite for happy/sad paths, designed all graphics on page',
+    accomplishments: 'GET and POST data from an API, built a robust test suite for happy/sad paths, designed all graphics on page',
     deployedLink: '',
     repoLink: 'https://github.com/davidleach724/travel-tracker'
   }

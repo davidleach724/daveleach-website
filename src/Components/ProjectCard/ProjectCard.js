@@ -12,7 +12,10 @@ const ProjectCard = ({ project }) => {
         />
         <div className="project-layer">
           <h3>{project.name}</h3>
-          <h5>{project.summary}</h5>
+          <p className='project-text'>{project.summary}</p>
+          <p className='project-text'>Tech Used: {project.tech}</p>
+          <p className='project-text'>Accomplisments: {project.accomplishments}</p>
+          <a href={project.repoLink}>Repo Link</a>
         </div>
     </div>
   )
