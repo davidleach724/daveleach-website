@@ -30,7 +30,7 @@ const tsParticleConfig = {
       random: true,
       anim: {
         enable: true,
-        speed: 1,
+        speed: 1.5,
         opacity_min: 0,
         sync: false
       }
@@ -53,8 +53,8 @@ const tsParticleConfig = {
       width: 1
     },
     move: {
-      enable: true,
-      speed: .4,
+      enable: false,
+      speed: 0,
       direction: "none",
       random: true,
       straight: false,
@@ -87,8 +87,8 @@ const tsParticleConfig = {
         }
       },
       bubble: {
-        distance: 75,
-        size: 5,
+        distance: 80,
+        size: 6,
         duration: 2,
         opacity: 0,
         speed: 3
