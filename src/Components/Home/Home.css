@@ -13,6 +13,7 @@ canvas {
   height: 100vh;
   position: absolute;
   z-index: 3;
+  overflow-x: hidden;
 }
 
 .image2 {
