@@ -3,8 +3,6 @@ import './Home.css'
 import tree from '../../Images/Tree&Grass.png'
 import city from '../../Images/City&Grass.png'
 import moon from '../../Images/Moon2.png'
-import daveleach from '../../Images/daveleach.png'
-import softwareengineer from '../../Images/softwareengineer.png'
 
 import Particles from 'react-tsparticles';
 import tsParticleConfig from '../config/tsParticleConfig';
@@ -30,8 +28,11 @@ const Home = () => {
         id="tsparticles"
         options={tsParticleConfig}
       />
-      <img className="name bounce-in-top" src={ daveleach } alt="dave leach name"/>
-      <img className="occupation text-focus-in" src={ softwareengineer } alt="occupation software engineer"/>
+      <div class="firefly"></div><div class="firefly"></div><div class="firefly"></div><div class="firefly"></div><div class="firefly"></div><div class="firefly"></div><div class="firefly"></div><div class="firefly"></div><div class="firefly"></div><div class="firefly"></div><div class="firefly"></div><div class="firefly"></div>
+      <div className="name-container">
+        <h1 className="name bounce-in-top">DAVE LEACH</h1>
+        <h2 className="occupation text-focus-in">Software Engineer</h2>
+      </div>
       <img src={ tree } className='image1' alt='tree'/>
       <img src={ city } className='image2' alt='city'/>
       <img src={ moon } className='image3' alt='moon'/>

@@ -30,7 +30,7 @@ const tsParticleConfig = {
       random: true,
       anim: {
         enable: true,
-        speed: 1,
+        speed: 2,
         opacity_min: 0,
         sync: false
       }
@@ -54,7 +54,7 @@ const tsParticleConfig = {
     },
     move: {
       enable: true,
-      speed: .4,
+      speed: 0,
       direction: "none",
       random: true,
       straight: false,
