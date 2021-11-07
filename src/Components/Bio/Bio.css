@@ -1,8 +1,8 @@
 .bio-container {
   width: 100vw;
-  background-color: black;
   display: flex;
   flex-direction: column;
+  z-index: 4;
   align-items: center;
   background: linear-gradient(0deg, rgb(90, 104, 103) 0%, rgba(0,0,0,1) 50%);
 }
