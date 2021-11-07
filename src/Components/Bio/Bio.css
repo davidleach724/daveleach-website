@@ -49,3 +49,15 @@ p {
   width: 300px;
   margin: 10px;
 }
+
+@media (max-width: 600px) {
+  .article-container {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .indiv-article {
+    width: 90vw;
+  }
+
+}

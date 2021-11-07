@@ -1,6 +1,6 @@
 .home-container {
   height: 100vh;
-  width: 100vw;
+  min-width: 100vw;
   background: linear-gradient(0deg, rgba(13,71,171,1) 0%, rgba(3,1,43,1) 60%, rgba(0,0,0,1) 100%);
   opacity: 1;
 }
@@ -241,7 +241,9 @@ code will be easiest to paste code in the CSS document (and then just delete the
   margin: -0.2vw 0 0 9.8vw;
   animation: ease 200s alternate infinite;
   pointer-events: none;
+  z-index: 4;
 }
+
 .firefly::before, .firefly::after {
   content: "";
   position: absolute;
@@ -1513,3 +1515,5 @@ code will be easiest to paste code in the CSS document (and then just delete the
     box-shadow: 0 0 2vw 0.4vw yellow;
   }
 }
+
+@media (max-width: )

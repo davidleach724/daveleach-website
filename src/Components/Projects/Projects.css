@@ -13,3 +13,16 @@
   padding: 3vh
 }
 
+@media (max-width: 1050px) {
+  .project-card-container {
+    grid-template-columns: 300px 300px;
+    grid-template-rows: 300px 300px 300px;
+  }
+}
+
+@media (max-width: 675px) {
+  .project-card-container {
+    grid-template-columns: 300px;
+    grid-template-rows: 300px 300px 300px 300px 300px 300px;
+  }
+}
