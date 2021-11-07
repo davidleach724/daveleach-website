@@ -13,7 +13,7 @@ canvas {
   height: 100vh;
   position: absolute;
   z-index: 3;
-  overflow-x: hidden;
+  overflow: hidden;
 }
 
 .image2 {
@@ -1514,5 +1514,19 @@ code will be easiest to paste code in the CSS document (and then just delete the
   5% {
     opacity: 1;
     box-shadow: 0 0 2vw 0.4vw yellow;
+  }
+}
+
+@media (max-width: 600px) {
+  .name-container {
+    padding-left: 14%;
+  }
+
+  .name {
+    font-size: 12vw;
+  }
+
+  .occupation {
+    font-size: 5vw;
   }
 }
