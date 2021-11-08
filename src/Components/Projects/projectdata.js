@@ -6,7 +6,8 @@ export const projectdata = [
     tech: 'GraphQL, ApolloClient, React, Router, Circle CI, JavaScript, CSS, HTML, Cypress',
     accomplishments: 'Working with a BE team and self-teaching GraphQL',
     deployedLink: 'https://future-seeds-ui.herokuapp.com/',
-    repoLink: 'https://github.com/davidleach724/future-seeds-ui'
+    repoLink: 'https://github.com/davidleach724/future-seeds-ui',
+    id: 1
   },
   {
     name: 'Quiz Me',
@@ -15,7 +16,8 @@ export const projectdata = [
     tech: 'React, Context API, Router, Cypress, REST API, JavaScript, HTML, CSS',
     accomplishments: 'Self-teaching Context API and implementing global state management',
     deployedLink: 'https://ruthless-wish.surge.sh/',
-    repoLink: 'https://github.com/davidleach724/quiz-me'
+    repoLink: 'https://github.com/davidleach724/quiz-me',
+    id: 2
   },
   {
     name: 'Band Glamp',
@@ -24,7 +26,8 @@ export const projectdata = [
     tech: 'React, Router, React Hooks, Cypress, REST API, JavaScript, CSS, HTML, Photoshop',
     accomplishments: 'Building a dynamic API call, Cypress stubbing',
     deployedLink: 'https://davidleach724.github.io/band-glamp/',
-    repoLink: 'https://github.com/davidleach724/band-glamp'
+    repoLink: 'https://github.com/davidleach724/band-glamp',
+    id: 3
   },
   {
     name: 'Portfolio',
@@ -33,7 +36,8 @@ export const projectdata = [
     tech: 'React, JavaScript, HTML, CSS, tsParticle.js, Photoshop',
     accomplishments: 'Creating an application with focus on CSS and cross browser compatibility',
     deployedLink: 'http://www.daveleach.dev',
-    repoLink: 'https://github.com/davidleach724/daveleach-website'
+    repoLink: 'https://github.com/davidleach724/daveleach-website',
+    id: 4
   },
   {
     name: 'Rancid Tomatillos',
@@ -42,7 +46,8 @@ export const projectdata = [
     tech: 'React, React Router, Cypress, JavaScript, Css, HTML, Day.js, GitHub Deployment',
     accomplishments: 'Created an application with the React framework, integrated React Router, Asynchronous JS, Cypress testing',
     deployedLink: 'https://davidleach724.github.io/Rancid-Tomatillos/',
-    repoLink: 'https://github.com/davidleach724/Rancid-Tomatillos'
+    repoLink: 'https://github.com/davidleach724/Rancid-Tomatillos',
+    id: 5
   },
   {
     name: 'Travel Tracker',
@@ -51,6 +56,7 @@ export const projectdata = [
     tech: 'JavaScript, HTML5, CSS/SCSS, NODE, WebPack, Fetch API, Moment.js',
     accomplishments: 'GET and POST data from an API, built a robust test suite for happy/sad paths, designed all graphics on page',
     deployedLink: '',
-    repoLink: 'https://github.com/davidleach724/travel-tracker'
+    repoLink: 'https://github.com/davidleach724/travel-tracker',
+    id: 6
   }
 ]

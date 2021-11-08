@@ -11,17 +11,17 @@ const Footer = () => {
     <div className="footer-container">
       <div className="footer-copy"></div>
       <div className="footer-links">
-        <a href="https://github.com/davidleach724" alt="github logo">
-          <img className="footer-icon" src={github}/>
+        <a href="https://github.com/davidleach724" >
+          <img className="footer-icon" src={github} alt="github logo"/>
         </a>
-        <a href="https://www.linkedin.com/in/davidleach724/" alt="linkedIn logo">
-          <img className="footer-icon" src={linkedin}/>
+        <a href="https://www.linkedin.com/in/davidleach724/" >
+          <img className="footer-icon" src={linkedin} alt="linkedIn logo"/>
         </a>
-        <a href={"mailto:" + "davidleach724@gmail.com"} alt="email logo">
-          <img className="footer-icon" src={email}/>
+        <a href={"mailto:davidleach724@gmail.com"} >
+          <img className="footer-icon" src={email} alt="email logo"/>
         </a>
-        <a href={resume} alt="resume logo">
-          <img className="footer-icon" src={resumeLogo}/>
+        <a href={resume} >
+          <img className="footer-icon" src={resumeLogo} alt="resume logo"/>
         </a>
       </div>
       <div className="footer-copy">

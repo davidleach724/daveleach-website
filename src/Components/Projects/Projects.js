@@ -5,7 +5,7 @@ import './Projects.css'
 const Projects = () => {
   const projectCards = projectdata.map(project => {
     return (
-      <ProjectCard project={ project } />
+      <ProjectCard project={ project } key = { project.id }/>
     )
   })
 

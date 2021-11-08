@@ -32,18 +32,18 @@ const Home = () => {
       <img src={tree} className="image1" alt="tree" />
       <img src={city} className="image2" alt="city" />
       <img src={moon} className="image3" alt="moon" />
-      <div class="firefly"></div>
-      <div class="firefly"></div>
-      <div class="firefly"></div>
-      <div class="firefly"></div>
-      <div class="firefly"></div>
-      <div class="firefly"></div>
-      <div class="firefly"></div>
-      <div class="firefly"></div>
-      <div class="firefly"></div>
-      <div class="firefly"></div>
-      <div class="firefly"></div>
-      <div class="firefly"></div>
+      <div className="firefly"></div>
+      <div className="firefly"></div>
+      <div className="firefly"></div>
+      <div className="firefly"></div>
+      <div className="firefly"></div>
+      <div className="firefly"></div>
+      <div className="firefly"></div>
+      <div className="firefly"></div>
+      <div className="firefly"></div>
+      <div className="firefly"></div>
+      <div className="firefly"></div>
+      <div className="firefly"></div>
     </div>
   );
 };
