@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.36c0f45e.chunk.css",
-    "main.js": "/static/js/main.04b52632.chunk.js",
-    "main.js.map": "/static/js/main.04b52632.chunk.js.map",
+    "main.js": "/static/js/main.f81acb3f.chunk.js",
+    "main.js.map": "/static/js/main.f81acb3f.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.1f0209ff.js",
     "runtime-main.js.map": "/static/js/runtime-main.1f0209ff.js.map",
     "static/js/2.a000f013.chunk.js": "/static/js/2.a000f013.chunk.js",
@@ -19,15 +19,15 @@
     "static/media/email-open.68766063.svg": "/static/media/email-open.68766063.svg",
     "static/media/github.fedf7e16.svg": "/static/media/github.fedf7e16.svg",
     "static/media/linkedin-logo.6c32ad69.svg": "/static/media/linkedin-logo.6c32ad69.svg",
-    "static/media/polobirdie.addd5cfe.png": "/static/media/polobirdie.addd5cfe.png",
-    "static/media/pologreece.33b9a72b.png": "/static/media/pologreece.33b9a72b.png",
-    "static/media/poloshow.a69dec65.png": "/static/media/poloshow.a69dec65.png",
+    "static/media/polobirdie.2fe8a3ed.jpg": "/static/media/polobirdie.2fe8a3ed.jpg",
+    "static/media/pologreece.516018ba.jpg": "/static/media/pologreece.516018ba.jpg",
+    "static/media/poloshow.076a72c7.jpg": "/static/media/poloshow.076a72c7.jpg",
     "static/media/resume-download.28688872.png": "/static/media/resume-download.28688872.png"
   },
   "entrypoints": [
     "static/js/runtime-main.1f0209ff.js",
     "static/js/2.a000f013.chunk.js",
     "static/css/main.36c0f45e.chunk.css",
-    "static/js/main.04b52632.chunk.js"
+    "static/js/main.f81acb3f.chunk.js"
   ]
 }
