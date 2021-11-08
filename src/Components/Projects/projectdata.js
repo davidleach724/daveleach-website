@@ -1,7 +1,7 @@
 export const projectdata = [
   {
     name: 'Future Seeds',
-    image: 'futureseeds.png',
+    image: 'futureseeds.jpg',
     summary: 'A gardening application that allows users to store information about their seeds and gardening techniques',
     tech: 'GraphQL, ApolloClient, React, Router, Circle CI, JavaScript, CSS, HTML, Cypress',
     accomplishments: 'Working with a BE team and self-teaching GraphQL',
@@ -10,7 +10,7 @@ export const projectdata = [
   },
   {
     name: 'Quiz Me',
-    image: 'quizme.png',
+    image: 'quizme.jpg',
     summary: 'An interactive trivia app',
     tech: 'React, Context API, Router, Cypress, REST API, JavaScript, HTML, CSS',
     accomplishments: 'Self-teaching Context API and implementing global state management',
@@ -19,7 +19,7 @@ export const projectdata = [
   },
   {
     name: 'Band Glamp',
-    image: 'bandglamp.png',
+    image: 'bandglamp.jpg',
     summary: 'A showcase application that allows artists/bands book campsites corresponding to their tour',
     tech: 'React, Router, React Hooks, Cypress, REST API, JavaScript, CSS, HTML, Photoshop',
     accomplishments: 'Building a dynamic API call, Cypress stubbing',
@@ -28,7 +28,7 @@ export const projectdata = [
   },
   {
     name: 'Portfolio',
-    image: 'portfolio.png',
+    image: 'portfolio.jpg',
     summary: 'Independent project to display personal portfolio',
     tech: 'React, JavaScript, HTML, CSS, tsParticle.js, Photoshop',
     accomplishments: 'Creating an application with focus on CSS and cross browser compatibility',
@@ -37,7 +37,7 @@ export const projectdata = [
   },
   {
     name: 'Rancid Tomatillos',
-    image: 'rancidtomatillos.png',
+    image: 'rancid.jpg',
     summary: 'A movie database that displays movie information and ratings',
     tech: 'React, React Router, Cypress, JavaScript, Css, HTML, Day.js, GitHub Deployment',
     accomplishments: 'Created an application with the React framework, integrated React Router, Asynchronous JS, Cypress testing',
@@ -46,7 +46,7 @@ export const projectdata = [
   },
   {
     name: 'Travel Tracker',
-    image: 'travelon.png',
+    image: 'travelon.jpg',
     summary: 'An application to manage, book, and display different trips for a user database',
     tech: 'JavaScript, HTML5, CSS/SCSS, NODE, WebPack, Fetch API, Moment.js',
     accomplishments: 'GET and POST data from an API, built a robust test suite for happy/sad paths, designed all graphics on page',

@@ -1,8 +1,8 @@
 import './Bio.css'
 
-import birdie from '../../Images/polobirdie.png'
-import dlshow from '../../Images/poloshow.png'
-import greece from '../../Images/pologreece.png'
+import birdie from '../../Images/polobirdie.jpg'
+import dlshow from '../../Images/poloshow.jpg'
+import greece from '../../Images/pologreece.jpg'
 import resume from '../../Images/LeachResume.pdf'
 
 const Bio = () => {
