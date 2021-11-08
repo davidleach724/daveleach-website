@@ -21,7 +21,7 @@ const Bio = () => {
           </p>
           <p>Feel free to reach out to me on <span/>
             <a className='bio-links' href="https://www.linkedin.com/in/davidleach724/">linkedIn</a>, <span/>
-            <a className='bio-links' href={"mailto:" + "davidleach724@gmail.com"}>email me directly</a>
+            <a className='bio-links' href={"mailto:davidleach724@gmail.com"}>email me directly</a>
             , or <a className='bio-links' href={resume}>take a look at my resume.</a></p>
         </div>
       </article>
