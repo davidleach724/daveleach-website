@@ -13,7 +13,7 @@ const Bio = () => {
       <h2 className='section-title'>About Me</h2>
       <article className="article-container">
         <div className="indiv-article">
-           <p>I spent the past 10 years traveling around the world perfoming music with several different artists. When everything came to a halt in March of 2020, I was forced to catch my breath and plan my next move. In May of 2021 I enrolled in Turing School of Software & Design and discovered just how similar the programming and musical brains are.</p>
+           <p>I spent the past 10 years traveling around the world perfoming music with several different artists. When everything came to a halt in March of 2020, I was forced to catch my breath and plan my next move. In May of 2021 I enrolled in Turing School of Software & Design and discovered how similar the programming and musical brains were.</p>
            <p>Like music, you're constantly presented with opportunities to learn something new. The frustrating parallel is you'll never come close to learning it all; the positive parallel is you will only become stale when you decide to. There is always more to learn.</p>
         </div>
         <div className="indiv-article">
