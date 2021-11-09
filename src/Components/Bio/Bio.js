@@ -17,7 +17,7 @@ const Bio = () => {
            <p>Like music, you're constantly presented with opportunities to learn something new. The frustrating parallel is you'll never come close to learning it all; the positive parallel is you will only become stale when you decide to. There is always more to learn.</p>
         </div>
         <div className="indiv-article">
-          <p>My past experience as an artist, educator, and entrepreneur has provided me excellent problem-solving, time management, and communication skills. I spent most of my life explaining concepts in anologies becuase what I was talking about wasn't tangible. I believe that curiosity, drive, and passion are an excellent and almost dangerous combination for an emerging developer - I'm excited to see what happens.
+          <p>My past experience as an artist, educator, and entrepreneur has provided me excellent problem-solving, time management, and communication skills. I spent most of my life explaining concepts in anologies because what I was talking about wasn't tangible. I believe that curiosity, drive, and passion are an excellent and almost dangerous combination for an emerging developer - I'm excited to see what happens.
           </p>
           <p>Feel free to reach out to me on <span/>
             <a className='bio-links' href="https://www.linkedin.com/in/davidleach724/">linkedIn</a>, <span/>
