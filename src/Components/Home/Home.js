@@ -29,9 +29,9 @@ const Home = () => {
         <h1 className="name bounce-in-top">DAVE LEACH</h1>
         <h2 className="occupation text-focus-in">Software Engineer</h2>
       </div>
-      <img src={tree} className="image1" alt="tree" />
-      <img src={city} className="image2" alt="city" />
-      <img src={moon} className="image3" alt="moon" />
+        <img src={tree} className="image1" alt="tree" />
+        <img src={city} className="image2" alt="city" />
+        <img src={moon} className="image3" alt="moon" />
       <div className="firefly"></div>
       <div className="firefly"></div>
       <div className="firefly"></div>
