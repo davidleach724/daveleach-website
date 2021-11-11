@@ -1,8 +1,8 @@
 import './Home.css';
 
-import tree from '../../Images/Tree&Grass.png';
-import city from '../../Images/City&Grass.png';
-import moon from '../../Images/Moon2.png';
+import city from '../../Images/smallcity.png'
+import tree from '../../Images/smalltree.png'
+import moon from '../../Images/smallmoon.png'
 
 import Particles from 'react-tsparticles';
 import tsParticleConfig from '../config/tsParticleConfig';
@@ -29,9 +29,11 @@ const Home = () => {
         <h1 className="name bounce-in-top">DAVE LEACH</h1>
         <h2 className="occupation text-focus-in">Software Engineer</h2>
       </div>
-        <img src={tree} className="image1" alt="tree" />
-        <img src={city} className="image2" alt="city" />
-        <img src={moon} className="image3" alt="moon" />
+      <img src={ moon } className='moon' alt='moon sketch'/>
+      <img src={ city } className='city' alt='city sketch'/>
+      <div className='background-bottom'>
+        <img src={ tree } className='tree' alt='tree sketch'/>
+      </div>
       <div className="firefly"></div>
       <div className="firefly"></div>
       <div className="firefly"></div>

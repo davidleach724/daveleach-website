@@ -11,24 +11,32 @@ canvas {
  position: absolute !important;
 }
 
-.image1 {
+.background-bottom {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: space-between;
   height: 100vh;
-  position: absolute;
-  z-index: 3;
-  overflow: hidden;
 }
 
-.image2 {
-  height: 100vh;
-  float: right;
+.tree {
   z-index: 2;
-  position: relative;
 }
 
-.image3 {
-  width: 100vw;
+.city {
   z-index: 1;
   position: absolute;
+  right: 0px;
+  bottom: 0px;
+}
+
+.moon {
+  z-index: 3;
+  position: relative;
+  float: right;
+  width: 15vw;
+  padding-right: 5vw;
+  padding-top: 4vh;
 }
 
 .name-container {
@@ -41,13 +49,13 @@ canvas {
 }
 
 .name {
-  z-index: 3;
+  z-index: 4;
   font-size: 5vw;
   color: white;
 }
 
 .occupation {
-  z-index: 3;
+  z-index: 4;
   font-size: 2vw;
   color: white;
 }
@@ -1530,5 +1538,15 @@ code will be easiest to paste code in the CSS document (and then just delete the
 
   .occupation {
     font-size: 5vw;
+  }
+
+  .moon {
+    width: 20vw;
+  }
+}
+
+@media (max-width: 350px) {
+  .city {
+    bottom: 10vh;
   }
 }

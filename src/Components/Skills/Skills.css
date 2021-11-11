@@ -35,3 +35,9 @@
   width: 75px;
   padding: 10px;
 }
+
+@media (max-width: 600px) {
+  .skills-title {
+    font-size: 6vh;
+  }
+}
