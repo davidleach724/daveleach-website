@@ -60,4 +60,7 @@ p {
     width: 90vw;
   }
 
+  .section-title {
+    font-size: 6vh;
+  }
 }
