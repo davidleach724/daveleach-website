@@ -1539,6 +1539,10 @@ code will be easiest to paste code in the CSS document (and then just delete the
   .occupation {
     font-size: 5vw;
   }
+
+  .moon {
+    width: 20vw;
+  }
 }
 
 @media (max-width: 350px) {
