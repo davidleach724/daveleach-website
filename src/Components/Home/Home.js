@@ -29,10 +29,10 @@ const Home = () => {
         <h1 className="name bounce-in-top">DAVE LEACH</h1>
         <h2 className="occupation text-focus-in">Software Engineer</h2>
       </div>
-      <img src={ moon } className='moon'/>
-      <img src={ city } className='city'/>
+      <img src={ moon } className='moon' alt='moon sketch'/>
+      <img src={ city } className='city' alt='city sketch'/>
       <div className='background-bottom'>
-        <img src={ tree } className='tree'/>
+        <img src={ tree } className='tree' alt='tree sketch'/>
       </div>
       <div className="firefly"></div>
       <div className="firefly"></div>
