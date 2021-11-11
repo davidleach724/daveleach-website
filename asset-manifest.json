@@ -1,19 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.abf57d63.chunk.css",
-    "main.js": "/static/js/main.d8bc7a84.chunk.js",
-    "main.js.map": "/static/js/main.d8bc7a84.chunk.js.map",
+    "main.css": "/static/css/main.755e6400.chunk.css",
+    "main.js": "/static/js/main.7655d572.chunk.js",
+    "main.js.map": "/static/js/main.7655d572.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.1f0209ff.js",
     "runtime-main.js.map": "/static/js/runtime-main.1f0209ff.js.map",
     "static/js/2.a000f013.chunk.js": "/static/js/2.a000f013.chunk.js",
     "static/js/2.a000f013.chunk.js.map": "/static/js/2.a000f013.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.abf57d63.chunk.css.map": "/static/css/main.abf57d63.chunk.css.map",
+    "static/css/main.755e6400.chunk.css.map": "/static/css/main.755e6400.chunk.css.map",
     "static/js/2.a000f013.chunk.js.LICENSE.txt": "/static/js/2.a000f013.chunk.js.LICENSE.txt",
-    "static/media/City&Grass.908efeb9.png": "/static/media/City&Grass.908efeb9.png",
     "static/media/LeachResume.4285f0c0.pdf": "/static/media/LeachResume.4285f0c0.pdf",
-    "static/media/Moon2.81161644.png": "/static/media/Moon2.81161644.png",
-    "static/media/Tree&Grass.4383c405.png": "/static/media/Tree&Grass.4383c405.png",
     "static/media/design.f29be246.png": "/static/media/design.f29be246.png",
     "static/media/development.feaba587.png": "/static/media/development.feaba587.png",
     "static/media/email-open.68766063.svg": "/static/media/email-open.68766063.svg",
@@ -22,12 +19,15 @@
     "static/media/polobirdie.2fe8a3ed.jpg": "/static/media/polobirdie.2fe8a3ed.jpg",
     "static/media/pologreece.516018ba.jpg": "/static/media/pologreece.516018ba.jpg",
     "static/media/poloshow.076a72c7.jpg": "/static/media/poloshow.076a72c7.jpg",
-    "static/media/resume-download.28688872.png": "/static/media/resume-download.28688872.png"
+    "static/media/resume-download.28688872.png": "/static/media/resume-download.28688872.png",
+    "static/media/smallcity.0af1db80.png": "/static/media/smallcity.0af1db80.png",
+    "static/media/smallmoon.7eec61ab.png": "/static/media/smallmoon.7eec61ab.png",
+    "static/media/smalltree.13f23846.png": "/static/media/smalltree.13f23846.png"
   },
   "entrypoints": [
     "static/js/runtime-main.1f0209ff.js",
     "static/js/2.a000f013.chunk.js",
-    "static/css/main.abf57d63.chunk.css",
-    "static/js/main.d8bc7a84.chunk.js"
+    "static/css/main.755e6400.chunk.css",
+    "static/js/main.7655d572.chunk.js"
   ]
 }
