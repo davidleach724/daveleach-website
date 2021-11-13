@@ -61,13 +61,13 @@ canvas {
 }
 
 .bounce-in-top {
-	-webkit-animation: bounce-in-top 2s 2s both;
-	        animation: bounce-in-top 2s 2s both;
+	-webkit-animation: bounce-in-top 2s 1s both;
+	        animation: bounce-in-top 2s 1s both;
 }
 
 .text-focus-in {
-	-webkit-animation: text-focus-in 3s cubic-bezier(0.550, 0.085, 0.680, 0.530) 3s both;
-	        animation: text-focus-in 3s cubic-bezier(0.550, 0.085, 0.680, 0.530) 3s both;
+	-webkit-animation: text-focus-in 2s cubic-bezier(0.550, 0.085, 0.680, 0.530) 1.5s both;
+	        animation: text-focus-in 2s cubic-bezier(0.550, 0.085, 0.680, 0.530) 1.5s both;
 }
 
 /* ----------------------------------------------
