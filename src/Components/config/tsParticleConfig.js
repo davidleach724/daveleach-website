@@ -1,11 +1,7 @@
 const tsParticleConfig = {
   particles: {
     number: {
-      value: 251,
-      density: {
-        enable: true,
-        value_area: 789.1476416322727
-      }
+      value: 100,
     },
     color: {
       value: "#ffffff"
@@ -77,7 +73,7 @@ const tsParticleConfig = {
         enable: true,
         mode: "bubble",
       },
-      resize: true,
+      resize: false,
     },
     modes: {
       grab: {

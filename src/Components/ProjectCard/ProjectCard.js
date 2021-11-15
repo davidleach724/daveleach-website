@@ -14,7 +14,7 @@ const ProjectCard = ({ project }) => {
           <h3>{project.name}</h3>
           <p className='project-text'>{project.summary}</p>
           <p className='project-text'>Tech Used: {project.tech}</p>
-          <p className='project-text'>Accomplisments: {project.accomplishments}</p>
+          <p className='project-text'>Accomplishments: {project.accomplishments}</p>
           <a href={project.repoLink}>Repo Link</a>
           {project.deployedLink !== '' && <a href={project.deployedLink}>Deployed App</a>}
         </div>
