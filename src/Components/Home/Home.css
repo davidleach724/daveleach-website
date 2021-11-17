@@ -1527,6 +1527,8 @@ code will be easiest to paste code in the CSS document (and then just delete the
   }
 }
 
+/* Media Queries */
+
 @media (max-width: 600px) {
   .name-container {
     padding-left: 14%;
