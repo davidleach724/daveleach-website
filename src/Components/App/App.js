@@ -1,12 +1,11 @@
-import Home from '../Home/Home'
+import Home from '../Home/Home';
 import Bio from '../Bio/Bio';
 import Skills from '../Skills/Skills';
 import Projects from '../Projects/Projects';
 import Footer from '../Footer/Footer';
-import './App.css'
+import './App.css';
 
 const App = () => {
-
   return (
     <main>
       <Home />
@@ -15,7 +14,7 @@ const App = () => {
       <Projects />
       <Footer />
     </main>
-  )
-}
+  );
+};
 
-export default App
+export default App;
