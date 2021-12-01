@@ -8,6 +8,7 @@ import './Home.css';
 
 const Home = () => {
   const [currentScrollHeight, setCurrentScrollHeight] = useState(0);
+  const opacity = Math.min(100 / currentScrollHeight, 1);
 
   useEffect(() => {
     window.onscroll = () => {
@@ -17,8 +18,6 @@ const Home = () => {
       }
     };
   });
-
-  const opacity = Math.min(100 / currentScrollHeight, 1);
 
   return (
     <div style={{ opacity }} className="home-container">
