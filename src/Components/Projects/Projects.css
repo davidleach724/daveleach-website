@@ -10,8 +10,10 @@
   grid-template-rows: 300px 300px;
   grid-template-columns: 300px 300px 300px;
   grid-gap: 30px;
-  padding: 3vh
+  padding: 3vh;
 }
+
+/* Media Queries */
 
 @media (max-width: 1050px) {
   .project-card-container {
