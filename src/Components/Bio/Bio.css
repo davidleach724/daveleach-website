@@ -4,7 +4,7 @@
   flex-direction: column;
   z-index: 4;
   align-items: center;
-  background: linear-gradient(0deg, rgb(90, 104, 103) 0%, rgba(0,0,0,1) 50%);
+  background: linear-gradient(0deg, rgb(90, 104, 103) 0%, rgba(0, 0, 0, 1) 50%);
 }
 
 .pagebreak {
@@ -49,6 +49,8 @@ p {
   width: 300px;
   margin: 10px;
 }
+
+/* Media Queries */
 
 @media (max-width: 600px) {
   .article-container {
