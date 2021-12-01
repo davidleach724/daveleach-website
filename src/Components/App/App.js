@@ -1,13 +1,11 @@
-import React from 'react'
-import Home from '../Home/Home'
-import Skills from '../Skills/Skills';
+import Home from '../Home/Home';
 import Bio from '../Bio/Bio';
-import './App.css'
+import Skills from '../Skills/Skills';
 import Projects from '../Projects/Projects';
 import Footer from '../Footer/Footer';
+import './App.css';
 
 const App = () => {
-
   return (
     <main>
       <Home />
@@ -16,7 +14,7 @@ const App = () => {
       <Projects />
       <Footer />
     </main>
-  )
-}
+  );
+};
 
-export default App
+export default App;

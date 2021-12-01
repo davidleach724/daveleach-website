@@ -42,15 +42,15 @@ const tsParticleConfig = {
       }
     },
     line_linked: {
-      enable: false,
+      enable: true,
       distance: 150,
       color: "#ffffff",
-      opacity: 0.4,
+      opacity: 0.1,
       width: 1
     },
     move: {
-      enable: false,
-      speed: 0,
+      enable: true,
+      speed: .15,
       direction: "none",
       random: true,
       straight: false,
@@ -94,7 +94,7 @@ const tsParticleConfig = {
         duration: 0.25
       },
       push: {
-        particles_nb: 10
+        particles_nb: 5
       },
       remove: {
         particles_nb: 2

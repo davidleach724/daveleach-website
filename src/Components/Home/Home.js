@@ -1,15 +1,14 @@
-import './Home.css';
-
-import city from '../../Images/smallcity.png'
-import tree from '../../Images/smalltree.png'
-import moon from '../../Images/smallmoon.png'
-
 import Particles from 'react-tsparticles';
 import tsParticleConfig from '../config/tsParticleConfig';
 import { useEffect, useState } from 'react';
+import city from '../../Images/smallcity.png';
+import moon from '../../Images/smallmoon.png';
+import tree from '../../Images/smalltree.png';
+import './Home.css';
 
 const Home = () => {
   const [currentScrollHeight, setCurrentScrollHeight] = useState(0);
+  const opacity = Math.min(100 / currentScrollHeight, 1);
 
   useEffect(() => {
     window.onscroll = () => {
@@ -20,8 +19,6 @@ const Home = () => {
     };
   });
 
-  const opacity = Math.min(100 / currentScrollHeight, 1);
-
   return (
     <div style={{ opacity }} className="home-container">
       <Particles id="tsparticles" options={tsParticleConfig} />
@@ -29,10 +26,10 @@ const Home = () => {
         <h1 className="name bounce-in-top">DAVE LEACH</h1>
         <h2 className="occupation text-focus-in">Software Engineer</h2>
       </div>
-      <img src={ moon } className='moon' alt='moon sketch'/>
-      <img src={ city } className='city' alt='city sketch'/>
-      <div className='background-bottom'>
-        <img src={ tree } className='tree' alt='tree sketch'/>
+      <img src={moon} className="moon" alt="moon sketch" />
+      <img src={city} className="city" alt="city sketch" />
+      <div className="background-bottom">
+        <img src={tree} className="tree" alt="tree sketch" />
       </div>
       <div className="firefly"></div>
       <div className="firefly"></div>
