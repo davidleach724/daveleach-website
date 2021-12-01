@@ -26,6 +26,7 @@
   width: 33vw;
 }
 
+/* Media Queries */
 
 @media (max-width: 570px) {
   .footer-container {
