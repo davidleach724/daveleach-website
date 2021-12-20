@@ -23,7 +23,7 @@ const Home = () => {
     <div style={{ opacity }} className="home-container">
       <Particles id="tsparticles" options={tsParticleConfig} />
       <div className="name-container">
-        <h1 className="name bounce-in-top">DAVE LEACH</h1>
+        <h1 className="name">DAVE LEACH</h1>
         <h2 className="occupation text-focus-in">Software Developer</h2>
       </div>
       <img src={moon} className="moon" alt="moon sketch" />

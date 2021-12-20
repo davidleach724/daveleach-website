@@ -18,7 +18,7 @@ const Skills = () => {
               alt="computer developer icon"
             />
             <h4>
-              React, JavaScript, GraphQL, Context API, ApolloClient, REST API,
+              React, JavaScript, GraphQL, Redux, Context API, ApolloClient, REST API,
               WebPack, GitHub Pages
             </h4>
           </div>

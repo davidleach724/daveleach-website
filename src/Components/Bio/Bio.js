@@ -30,11 +30,7 @@ const Bio = () => {
           <p>
             My past experience as an artist, educator, and entrepreneur has
             provided me excellent problem-solving, time management, and
-            communication skills. I spent most of my life explaining concepts in
-            anologies because what I was talking about wasn't tangible. I
-            believe that curiosity, drive, and passion are an excellent and
-            almost dangerous combination for an emerging developer - I'm excited
-            to see what happens.
+            communication skills. I believe that curiosity, drive, and passion are an excellent and invigorating combination for an emerging developer - I'm excited to see what happens next.
           </p>
           <p>
             Feel free to reach out to me on <span />
