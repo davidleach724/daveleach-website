@@ -24,7 +24,7 @@ const Footer = () => {
         </a>
       </div>
       <div className="footer-copy">
-        <h4>© Dave Leach 2021</h4>
+        <h4>© Dave Leach 2022</h4>
       </div>
     </div>
   );
