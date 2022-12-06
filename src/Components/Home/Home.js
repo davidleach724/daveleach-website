@@ -24,7 +24,7 @@ const Home = () => {
       <Particles id="tsparticles" options={tsParticleConfig} />
       <div className="name-container">
         <h1 className="name">DAVE LEACH</h1>
-        <h2 className="occupation text-focus-in">Software Developer</h2>
+        <h2 className="occupation text-focus-in">Front-End Software Engineer</h2>
       </div>
       <img src={moon} className="moon" alt="moon sketch" />
       <img src={city} className="city" alt="city sketch" />
